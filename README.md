@@ -19,11 +19,11 @@ In the provided Python code, the yield curves for each month of a specified year
 
 **Black Line:** Represents the yield curve connecting the yields of bonds with different maturities for that particular month.
 
-![image](https://github.com/CodeByHarri/Yield-Curve-Visualization/assets/40570409/56205988-da78-4d63-a53b-a09a79146214)
-
+![Screenshot 2023-10-09 214751](https://github.com/CodeByHarri/Yield-Curve-Visualization/assets/40570409/4faad1f6-f399-4a88-8969-96a4092c9b52)
 
 ## Interpretation
 By observing the colors of the points on the yield curves, one can quickly assess the economic outlook. A series of green points indicates positive investor sentiment and expected economic growth, while red points suggest caution and potential economic contraction.
 
 By visualizing the yield curves over several months or years, trends, patterns, and anomalies become evident, offering valuable insights for making informed investment and policy decisions.
+
 
